@@ -35,6 +35,7 @@ let g:clipboard = {
   \ }
 
 "Hello
+"efefpweimceimoifm eowifn3cqpfoqmcfinqoiwenfcqow
 
 " Toggle nerdtree
 nnoremap <leader>nt :NERDTreeToggle<CR>
